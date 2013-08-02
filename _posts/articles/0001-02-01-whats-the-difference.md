@@ -30,7 +30,7 @@ state: all
 
 Starting in 2014, all health plans must offer essential health benefits. But the only way to get lower costs based on income is through the Marketplace.
 
-## All plans will offer essential health benefits
+## All plans will offer essential health benefits a
 
 Starting in 2014, no matter how you buy your health insurance—through the Marketplace, directly from an insurance company, or with the help of an agent or broker--all plans for individuals and small groups must cover the same set of [essential health benefits](/what-does-marketplace-health-insurance-cover). They include doctor’s visits, hospital stays, preventive services, prescription drugs, mental health, and other categories of coverage.
 
